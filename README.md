@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on amateur project 
 - 📫 How to reach me
       - Facebook: Bruno Fogaça
-      - Instagram: fogacaabruno
+      - Instagram: fogacabrunoo
 
 <!---
 fogacabruno/fogacabruno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
